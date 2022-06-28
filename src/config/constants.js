@@ -3,6 +3,9 @@ const constants = {
     bienIci: {
       baseURL: "https://www.bienici.com/",
     },
+    nexity: {
+      baseURL: "https://www.nexity.fr/",
+    },
   },
 };
 
